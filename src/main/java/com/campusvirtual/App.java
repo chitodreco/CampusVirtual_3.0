@@ -8,6 +8,7 @@ import javafx.stage.Stage;
 /**
  * Punto de entrada de la aplicación Campus Virtual.
  * Inicializa la conexión a BD y muestra la ventana de login.......
+ * hola hola
  */
 public class App extends Application {
 
